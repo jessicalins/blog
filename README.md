@@ -1,4 +1,6 @@
-my personal blog.
+# My personal blog
+
+my personal [blog](https://jessicalins.github.io/blog/). :cherry_blossom:
 
 Built with:
 
