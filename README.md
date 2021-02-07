@@ -1,6 +1,6 @@
 my personal blog.
 
-Build with:
+Built with:
 
 * Jekyll 4+ site
 * GitHub Pages and GitHub Actions (following [this](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll) guide)
