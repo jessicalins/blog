@@ -31,6 +31,7 @@ theme: hitchens-theme
 plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
+  - jemoji
 
 hide_search: true
 languages: ["en", "de"]
