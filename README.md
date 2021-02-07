@@ -1,4 +1,4 @@
-# My personal blog
+# cupsofwonder
 
 my personal [blog](https://jessicalins.github.io/blog/). :cherry_blossom:
 
