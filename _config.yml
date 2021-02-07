@@ -30,8 +30,11 @@ github_username:  jessicalins
 theme: hitchens-theme
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 
 hide_search: true
+languages: ["en", "de"]
+exclude_from_localizations: ["javascript", "images", "css", "assets"]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
