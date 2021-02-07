@@ -29,13 +29,13 @@ input, select { vertical-align: middle; }
 .clearfix { display: block; }
 
 /** Syntax highlighting styles */
-code.highlighter-rouge { background: #fff5b2; font-family: courier, monospace; font-size: .875em; }
+code.highlighter-rouge { background: #d9e8eb; font-family: courier, monospace; font-size: .875em; }
 
 .highlight { background: #fff; font-family: courier, monospace; font-size: .875em; margin: 2rem auto; }
 
 .highlight > * { padding: 0 1.5rem; }
 
-.highlighter-rouge .highlight { background: #fff5b2; }
+.highlighter-rouge .highlight { background: #d9e8eb; }
 
 .highlight .c { color: #998; font-style: italic; }
 
@@ -158,7 +158,7 @@ code.highlighter-rouge { background: #fff5b2; font-family: courier, monospace; f
 /* eb-garamond-regular - latin */
 @font-face { font-family: 'EB Garamond'; font-style: normal; font-weight: 400; font-display: auto; src: url("/blog/assets/fonts/eb-garamond-v9-latin-regular.eot"); /* IE9 Compat Modes */ src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url("/blog/assets/fonts/eb-garamond-v9-latin-regular.eot?#iefix") format("embedded-opentype"), url("/blog/assets/fonts/eb-garamond-v9-latin-regular.woff2") format("woff2"), url("/blog/assets/fonts/eb-garamond-v9-latin-regular.woff") format("woff"), url("/blog/assets/fonts/eb-garamond-v9-latin-regular.ttf") format("truetype"), url("/blog/assets/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond") format("svg"); /* Legacy iOS */ }
 
-body { background: #fede00; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
+body { background: #ffd6d6; color: #0b0404; font-family: "EB Garamond", Garamond, "Times New Roman", serif; font-size: 1.3125em; line-height: 1.5; }
 
 h1 { font-size: 3em; margin: .5em auto; }
 
@@ -204,15 +204,15 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .content-title { font-size: 2em; margin-bottom: 2em; text-align: center; }
 
-.post-date { color: #64644B; display: block; font-size: .825em; white-space: nowrap; text-transform: uppercase; }
+.post-date { color: #447980; display: block; font-size: .825em; white-space: nowrap; text-transform: uppercase; }
 
 .post-link .post-date { padding: .5em 0; }
 
 .site-credits { margin: 0 auto 2em; padding: 0 2em; text-align: center; }
 
-.skip-navigation { background: #fede00; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.skip-navigation { background: #ffd6d6; border: 1px dashed transparent; display: block; font-size: .875em; font-weight: 700; margin-top: -2.625rem; padding: .5rem; text-align: center; text-decoration: none; text-transform: uppercase; }
 
-.skip-navigation:hover, .skip-navigation:focus { background: #ffe00c; border-color: #0b0404; margin-top: 0; }
+.skip-navigation:hover, .skip-navigation:focus { background: #ffe3e3; border-color: #0b0404; margin-top: 0; }
 
 .site-masthead { box-sizing: border-box; position: relative; text-align: center; }
 
@@ -220,7 +220,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 @media (min-width: 768px) { .site-masthead h1 { font-size: 6em; } }
 
-.site-masthead h2 { color: #64644B; font-size: 1.25em; margin: 0; padding: 0 2rem; }
+.site-masthead h2 { color: #447980; font-size: 1.25em; margin: 0; padding: 0 2rem; }
 
 @media (min-width: 768px) { .site-masthead h2 { font-size: 3em; } }
 
@@ -268,7 +268,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .post-pagination a:hover, .post-pagination a:focus { opacity: 1; }
 
-.post { background: white; margin: 2em auto; max-width: 60rem; padding: 2em 0; box-shadow: 12px 18px 24px rgba(0, 0, 0, 0.1); }
+.post { background: white; margin: 2em auto; max-width: 60rem; padding: 2em 0; box-shadow: 12px 18px 24px rgba(214, 0, 0, 0.1); }
 
 .post > * { margin-left: auto; margin-right: auto; max-width: 36rem; padding: 0 1em; }
 
@@ -278,7 +278,7 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .post p:first-of-type, .post h2 + p { text-indent: 0; }
 
-.post a:hover { background: #fff5b2; }
+.post a:hover { background: #d9e8eb; }
 
 .post dl, .post ul, .post ol { margin: 1.5em; }
 
@@ -290,9 +290,9 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 .back-link { display: inline-block; font-size: .75em; padding: 1em; text-decoration: none; text-transform: uppercase; }
 
-.footnote { border: 1px solid #64644B; border-radius: 1em; color: #0b0404; display: inline; font-size: .75em; font-weight: 700; padding: 0 .75em; text-decoration: none; margin: 0 .25em; }
+.footnote { border: 1px solid #447980; border-radius: 1em; color: #0b0404; display: inline; font-size: .75em; font-weight: 700; padding: 0 .75em; text-decoration: none; margin: 0 .25em; }
 
-.footnote:hover, .footnote:focus { background: #fede00; border-color: #fede00; }
+.footnote:hover, .footnote:focus { background: #ffd6d6; border-color: #ffd6d6; }
 
 .footnotes::before { content: ''; border: 0; display: block; width: 152px; height: 12px; margin: .5em auto 0; background: url(/blog/assets/images/divider.svg) no-repeat top center; margin: 4em auto; }
 
@@ -310,12 +310,12 @@ figcaption { font-size: .875em; font-style: italic; text-align: center; margin-b
 
 #search button[type="submit"] { display: none; }
 
-::-webkit-input-placeholder { color: #64644B; }
+::-webkit-input-placeholder { color: #447980; }
 
-::-moz-placeholder { color: #64644B; }
+::-moz-placeholder { color: #447980; }
 
-:-ms-input-placeholder { color: #64644B; }
+:-ms-input-placeholder { color: #447980; }
 
-:-moz-placeholder { color: #64644B; }
+:-moz-placeholder { color: #447980; }
 
 /*# sourceMappingURL=main.css.map */
