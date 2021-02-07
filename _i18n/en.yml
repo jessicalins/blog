@@ -1,6 +1,7 @@
 global:
   english: EN
   german: DE
+  see_also: See this post also in
 pages:
   home: Home
   about: About
