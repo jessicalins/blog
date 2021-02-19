@@ -12,7 +12,7 @@ On January 2nd, I went to the [Rhön mountains](https://en.wikipedia.org/wiki/Rh
 
 Being used to the warm and constant weather from Fortaleza, my hometown, of course anything that comes close to snow instantly grabs my attention :D
 
-So there it was: mountains, snow, and kids sliding down mountain slopes. The views were breathtaking and I think that was the best way to start the year and truthfully enjoy the cold months around here.
+So there it was: mountains, snow and kids sliding down mountain slopes. The views were breathtaking and I think that was the best way to start the year and truthfully enjoy the cold months around here.
 
 On the same day I was coming back to Berlin and ready to start the year.
 The weeks were passing by and all I could see through my apartment window were days filled with cloudy skies.
@@ -25,7 +25,7 @@ To be honest I was a little bit scared. Who knows what could happen? What if the
 
 After checking that it seemed relatively safe, I decided to go. And I think it was amazing! I saw a lot of people ice skating and even some improvised ice hockey fields.
 
-On Sunday I went to [Weißen See](https://en.wikipedia.org/wiki/Wei%C3%9Fer_See_%28Berlin%29), a lake relatively close to where I live. This one seemed even more frozen than the one in Potsdam - it is also a smaller one.
+On Sunday I went to [Weißer See](https://en.wikipedia.org/wiki/Wei%C3%9Fer_See_%28Berlin%29), a lake relatively close to where I live. This one seemed even more frozen than the one in Potsdam - it is also a smaller one.
 Again I've seen a lot of people having fun and even some "sliding paths" that were built spontaneously.
 
 This was the best gift I could receive in the last weeks. I live here for 5 years and I never expected to see Berlin covered by snow and its lakes being frozen like that!
