@@ -18,7 +18,7 @@ An dem gleichen Tag bin ich nach Berlin zurückgekommen und war bereit, dass neu
 Aber letzte Woche war anders. Die Temperaturen fangen zu sinken an (noch mehr!) und ja, der Schnee kommt! Wir haben auch ein Geschenk bekommen: viel Sonne und blauer Himmel. Meine Mittagspausen waren gefüllt mit Spaziergängen in meinem Kiez, wo ich den Ausblick von dem Panke-Kanal und dem Humboldhain Park erlebe könnte.
 
 Nach etwa einer Woche mit negative Temperaturen, haben einige der nahe gelegenen Seen zu frieren angefangen. Letztes Wochenende bin ich zum [Heiliger See](https://de.wikipedia.org/wiki/Heiliger_See_%28Potsdam%29), in Potsdam,
-gefahren. Es war unglaubich zu sehen, dass die gleichen Seen, wo ich zum ersten Mal an meinem Geburtstag war, ganz gefroren wurden!
+gefahren. Es war unglaubich zu sehen, dass die gleichen Seen, wo ich zum ersten Mal an meinem Geburtstag drinnen war, ganz gefroren wurden!
 
 Um ehrlich zu sein hatte ich ein bisschen Angst. Was ist, wenn die gefrorene Oberfläche zusammenbricht und ich in den See falle, wie in den Filmen?
 
