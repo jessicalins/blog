@@ -5,7 +5,7 @@ date:   2021-02-15 21:53:00 +0100
 categories: posts
 ---
 
-Ich lebe in Deutschland seit Jan/2016. 2 Tage nachdem ich nach Berlin gekommen bin, habe ich zum zweiten Mal in meinem Leben Schnee erlebt (das erste Mal war in Turin - Italien). Ich erinnere mich wie glücklich und fasziniert ich war weiße Straßen zu sehen. Auch die Bäume, die vorher keinen Blätter hatten, wurden jetzt von einer dünnen und glatten Schneeschicht bedeckt. In 2016 gab es nicht so viele Schnee: aber es war genug, um mich glücklich und erfreut zu machen.
+Ich lebe in Deutschland seit Jan/2016. 2 Tage nachdem ich nach Berlin gekommen bin, habe ich zum zweiten Mal in meinem Leben Schnee erlebt (das erste Mal war in Turin - Italien). Ich erinnere mich wie glücklich und fasziniert ich war weiße Straßen zu sehen. Auch die Bäume, die vorher keine Blätter hatten, wurden jetzt von einer dünnen und glatten Schneeschicht bedeckt. In 2016 gab es nicht so viele Schnee: aber es war genug, um mich glücklich und erfreut zu machen.
 
 Mein 2021 hat (ein bisschen) ähnlich angefangen. Aber dieses mal, mit viel mehr Schnee! Am 2. Januar, bin ich in [Die Rhön](https://de.wikipedia.org/wiki/Rh%C3%B6n) mit meinem Freund und seiner Familie gegangen. Ich hatte keine Ahnung wie der Ort war: ich wusste ich würde (hoffentlich) etwas Schnee in diesen Tag sehen.
 
