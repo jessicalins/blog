@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "White impressions"
-date:   2021-02-15 21:53:00 +0100
+title: "White impressions"
+date: 2021-02-15 21:53:00 +0100
 categories: posts
 ---
 
