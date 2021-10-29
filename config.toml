@@ -1,0 +1,53 @@
+baseurl = "https://jessicalins.github.io/blog/"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+theme = "hugo-classic"
+title = "cupsofwonder"
+defaultContentLanguage = 'en'
+
+[languages]
+    [languages.en]
+      languageName = 'English'
+      weight = 1
+
+    [languages.fr]
+      languageName = 'Deutsch'
+      weight = 2
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+[[menu.feed]]
+name = "Subscribe"
+url = "/index.xml"
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "wonderings, thoughts & whatever I feel like writing."
+footer = "2021 | [theme by goodroot](https://github.com/goodroot/hugo-classic) | [built with Hugo ♡](https://gohugo.io/)"
