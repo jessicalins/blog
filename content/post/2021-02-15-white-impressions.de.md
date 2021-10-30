@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "Weiße Eindrücke"
-date:   2021-02-15 21:53:00 +0100
-categories: posts
+title: Weiße Eindrücke
+author: Jéssica Lins
+date: '2021-02-15'
+categories:
+  - Personal
+tags:
+  - Germany
 ---
 
 Ich lebe in Deutschland seit Jan/2016. 2 Tage nachdem ich nach Berlin gekommen bin, habe ich zum zweiten Mal in meinem Leben Schnee erlebt (das erste Mal war in Turin - Italien). Ich erinnere mich wie glücklich und fasziniert ich war weiße Straßen zu sehen. Auch die Bäume, die vorher keine Blätter hatten, wurden jetzt von einer dünnen und glatten Schneeschicht bedeckt. In 2016 gab es nicht so viele Schnee: aber es war genug, um mich glücklich und erfreut zu machen.

@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "White impressions"
-date:   2021-02-15 21:53:00 +0100
-categories: posts
+title: White impressions
+author: Jéssica Lins
+date: '2021-02-15'
+categories:
+  - Personal 
+tags:
+  - Germany
 ---
 
 I live in Germany since Jan/2016. 2 days after I've arrived in Berlin, I've had experienced snow for the second time in my life (being the first one in Turin - Italy). I remember how happy and fascinated I was in seeing how the streets turned white. How the trees, that before wouldn't have any leaves, got covered by a thin and smooth layer of snow. In 2016 it didn't snow a lot: but it was enough to make me happy and delighted.
