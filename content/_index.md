@@ -16,4 +16,4 @@ I want to write here in this blog what goes through my mind, what I feel like. I
 
 ---
 
-## Wonderings
+## Thoughts
